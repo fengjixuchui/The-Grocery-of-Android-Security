@@ -1,3 +1,4 @@
 # The-Grocery-of-Android-Security
 
-**Author：Potato Couplee**
+**Author:wnagzihxa1n
+E-Mail:wnagzihxa1n@gmail.com**
